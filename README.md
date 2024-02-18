@@ -1,4 +1,4 @@
-## *<div align="center">I'm Jerson. BackEnd Developer welcome to my profile</div>*  
+## *<div align="center">Hello my name is Jerson rafael and I am a FullStack developer focused on BackEnd. Enthusiast of study and development</div>*  
   
 
 <br/>  
